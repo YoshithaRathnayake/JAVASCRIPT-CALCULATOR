@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/JavaScript_Calculator.html"><b><i>WELCOME!, TO MY JAVASCRIPT CALCULATOR</i></b></a></div>
 
-> This is the Calculator that I made using JavaScript Programming Language
+> This is the Calculator that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
 # <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
 
