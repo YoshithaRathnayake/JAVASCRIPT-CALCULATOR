@@ -1,1 +1,40 @@
-
+#id {
+        background-color: #34FF00;
+        animation: rainbow 5s infinite;
+    }
+    
+    @keyframes rainbow {
+        40% {
+            background-color: #00FFE7;
+        }
+        50% {
+            background-color: #00FFC6;
+        }
+        60% {
+            background-color: #00FF74;
+        }
+        70% {
+            background-color: #00FF04;
+        }
+        80% {
+            background-color: #FBFF00;
+        }
+        90% {
+            background-color: #FF0000;
+        }
+        100% {
+            background-color: #FF00ED;
+        }
+    }
+    
+    .Calculator {
+        font-size: 60px;
+        margin: 60px;
+        color: blue;
+    }
+    
+    .Calculator:hover {
+        color: red;
+        transition: 1s;
+        cursor: pointer;
+    }
