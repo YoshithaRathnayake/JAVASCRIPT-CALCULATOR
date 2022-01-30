@@ -2,7 +2,7 @@
 
 > This is the Calculator that I made using JavaScript Programming Language
 
-# <div align="center"><img src="Images/Quiz Time.jpg" width="300px"></div>
+# <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
