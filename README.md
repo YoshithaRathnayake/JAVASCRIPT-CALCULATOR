@@ -2,7 +2,7 @@
 
 > This is the Calculator that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
-# <div align="center"><img src="Images/Calculator.jpg" width="300px"></div>
+# <div align="center"><img src="images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
