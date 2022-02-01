@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/JavaScript_Calculator.html"><b><i>WELCOME!, TO MY JAVASCRIPT CALCULATOR</i></b></a></div>
+# <div align="center"><a href="https://yoshitharathnayake.github.io/JavaScript-Calculator/"><b><i>WELCOME!, TO MY JAVASCRIPT CALCULATOR</i></b></a></div>
 
 > This is the Calculator that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
