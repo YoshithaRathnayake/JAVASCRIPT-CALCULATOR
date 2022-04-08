@@ -21,5 +21,5 @@ jobs:
         env:
           SURGE_LOGIN: Y.S.B.Rathnayake2008@gmail.com
           SURGE_TOKEN: 4f75270ec1d0e4d48c5ecc3959f9d888
-          DEPLOY_DOMAIN: https://pr-${{ github.event.number }}-Yoshitha-Site.surge.sh
+          DEPLOY_DOMAIN: https://pr-${{ github.event.number }}-JAVASCRIPT-CALCULATOR.surge.sh
         run: surge ./ $DEPLOY_DOMAIN --token $SURGE_TOKEN
