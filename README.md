@@ -16,8 +16,8 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/JavaScript_Calcul
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/JavaScript-Calculator.git
-    cd JavaScript-Calculator
+    git clone https://github.com/USERNAME/JAVASCRIPT-CALCULATOR.git
+    cd JAVASCRIPT-CALCULATOR
     ```
      
 #
