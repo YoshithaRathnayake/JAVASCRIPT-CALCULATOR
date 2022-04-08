@@ -8,7 +8,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/JavaScript_Calculator.html](https://yoshitharathnayake.w3spaces.com/JavaScript_Calculator.html)</i></b>
+Available at :  <b><i>[https://yoshitharathnayake.github.io/JAVASCRIPT-CALCULATOR](https://yoshitharathnayake.github.io/JAVASCRIPT-CALCULATOR/)</i></b>
 
 #
 # Run Locally
