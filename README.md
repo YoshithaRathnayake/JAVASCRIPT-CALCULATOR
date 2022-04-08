@@ -4,6 +4,10 @@
 
 > I made this Project when I was 13 years old (Grade 8D).
 
+> Used Programming Languages (HTML, CSS, JavaScript, Bootstrap) 
+
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a>    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a>    <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a>    <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
+
 # <div align="center"><img src="images/Calculator.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
