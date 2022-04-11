@@ -1,4 +1,5 @@
-#id {
+/* Body */
+#Body {
         background-color: #34FF00;
         animation: rainbow 5s infinite;
     }
@@ -27,23 +28,32 @@
         }
     }
     
+/* Calculator Title */
     .cal-title {
         font-size: 60px;
         margin: 60px;
         color: blue;
     }
     
+/* Calculator Title Hover Effect */
     .cal-title:hover {
         color: red;
         transition: 1s;
         cursor: pointer;
     }
 
+/* Calculator Description */
     .cal-description {
         font-size: 25px; 
         margin: 20px;
     }
 
-.cal-img {
+/* Calculator Image */
+    .cal-img {
+        margin: 50px;
+    }
 
-}
+/* Calculator Marquee */
+    .cal-marquee {
+        font-size: 25px;
+    }
