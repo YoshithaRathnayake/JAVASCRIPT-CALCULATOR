@@ -27,14 +27,23 @@
         }
     }
     
-    .Calculator {
+    .cal-title {
         font-size: 60px;
         margin: 60px;
         color: blue;
     }
     
-    .Calculator:hover {
+    .cal-title:hover {
         color: red;
         transition: 1s;
         cursor: pointer;
     }
+
+    .cal-description {
+        font-size: 25px; 
+        margin: 20px;
+    }
+
+.cal-img {
+
+}
