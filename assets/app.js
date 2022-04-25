@@ -1,6 +1,8 @@
 //User Name
+
     UserName = prompt("Hi, I am Yoshitha Rathnayake. What is your name?");
     alert("Hello, " + UserName + " Welcome to my Calculator that I made using JavaScript (Language).");
+
 
     //Calculator (Codes)
 
