@@ -1,24 +1,24 @@
-//User Name
+// User Name
 
     UserName = prompt("Hi, I am Yoshitha Rathnayake. What is your name?");
     alert("Hello, " + UserName + " Welcome to my Calculator that I made using JavaScript (Language).");
 
 
-    //Calculator (Codes)
+    // Calculator (Codes)
 
     function Calculator() {
 
-        //Variables with inputs (prompt)
+        // Variables with inputs (prompt)
 
         let userNumber1 = prompt("Enter a number you like.(First Number)");
         let userNumber2 = prompt("Enter another number you like.(Second Number)");
         let arithSymbol = prompt("Enter a Arithmetic symbol you like.(+, -, *, /)");
 
-        //While Loop
+        // While Loop
 
         while (true) {
 
-            //If then else blocks
+            // If then else blocks
 
             if (arithSymbol == "+") {
                 alert(userNumber1);
@@ -54,7 +54,7 @@
 
 
 
-            //User Number 1
+            // User Number 1
 
             if (userNumber1 == "`") {
                 alert("Error! This " + "'" + userNumber1 + "'" + " is not a Number (Number 1). This is a Symbol. Try Again!");
@@ -306,7 +306,7 @@
 
 
 
-            //User Number 2
+            // User Number 2
 
             if (userNumber2 == "`") {
                 alert("Error! This " + "'" + userNumber2 + "'" + " is not a Number (Number 2). This is a Symbol. Try Again!");
@@ -546,7 +546,7 @@
 
 
 
-            //Arithmetic Symbols
+            // Arithmetic Symbols
 
             if (arithSymbol == "`") {
                 alert("Error! This " + "'" + arithSymbol + "'" + " is not a Arithmetic Symbol. This is a Symbol. Try Again!");
