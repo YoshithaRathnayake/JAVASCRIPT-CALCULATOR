@@ -26,4 +26,4 @@ Available at :  <b><i>[https://yoshitharathnayake.github.io/JAVASCRIPT-CALCULATO
     git clone https://github.com/USERNAME/JAVASCRIPT-CALCULATOR.git
     cd JAVASCRIPT-CALCULATOR
     ```
-    
+  
