@@ -4,7 +4,7 @@
     alert("Hello, " + UserName + " Welcome to my Calculator that I made using JavaScript (Language).");
 
 
-    // Calculator
+    // Calculator Script
 
     function Calculator() {
 
