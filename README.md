@@ -1,7 +1,4 @@
 # <div align="center"><a href="https://yoshitharathnayake.github.io/JAVASCRIPT-CALCULATOR"><b><i>WELCOME!, TO MY JAVASCRIPT CALCULATOR</i></b></a></div>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 # <div align="center"><img src="assets/img/Calculator.jpg" width="300px"></div>
@@ -29,38 +26,4 @@ Available at :  <b><i>[https://yoshitharathnayake.github.io/JAVASCRIPT-CALCULATO
     git clone https://github.com/USERNAME/JAVASCRIPT-CALCULATOR.git
     cd JAVASCRIPT-CALCULATOR
     ```
-     
-#
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://www.Yoshitha.tk"><img src="https://avatars.githubusercontent.com/u/97069900?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YOSHITHA RATHNAYAKE</b></sub></a><br /><a href="https://github.com/YoshithaRathnayake/JAVASCRIPT-CALCULATOR/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.Yoshitha.tk"><img src="images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/YoshithaRathnayake/JAVASCRIPT-CALCULATOR/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [All Contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
+  
